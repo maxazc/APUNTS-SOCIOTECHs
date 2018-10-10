@@ -8,7 +8,7 @@
 intro: 
 El mindset computacional s’està inserint en la vida social i cultural, creativa, o educacional.  S’aprèn i es crea conjuntament a traves d’aquest tipus d’eines. Durant el nostre dia a dia es respon a algoritmes on hi intervenen tencologias blandas, duras, etc. 
 
-> "algorithms ‘‘have the capacity to shape social and cultural formations and impact directly on individual lives’’ (Beer 2009, 994), figure as ‘‘pathways through which capitalist power works’’ (Lash 2007, 71), denote ‘‘rules of rationality [that] replaced the self-critical judgments of reasons’’"
+> "algorithms ‘‘have the capacity to shape social and cultural formations and impact directly on individual lives’’ (Beer 2009, 994), figure as ‘‘pathways through which capitalist power works’’ (Lash 2007, 71), denote ‘‘rules of rationality [that] replaced the self-critical judgments of reasons’’ (Ziewitz, 2015)
 
 Enunciat:
 Fins a quin punt les nostres vides estan "algoritmitzades" i fer algo al respecte com:
