@@ -32,4 +32,8 @@ Ahir mentre plovia vaig intentar provocar aquesta situació anant pel costat de 
 
 ![ ](https://github.com/maxazc/APUNTS-SOCIOTECHs/blob/master/54d5e2fb4bf41a2882af7db1dce21991.gif?raw=true)
 
+![ ](https://github.com/maxazc/APUNTS-SOCIOTECHs/blob/master/macdoritmo.jpg?raw=true)
+
+
+
 
