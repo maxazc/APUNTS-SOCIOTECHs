@@ -1,8 +1,7 @@
 # Entregues 
-## ghooola
 ### EX1 - Lentitud, Ritmo, y Niebla
 
-
+(per completar)
 
 ### EX2 - algoritmes
 
