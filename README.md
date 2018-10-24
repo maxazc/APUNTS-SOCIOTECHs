@@ -1,4 +1,8 @@
+#### AIXÒ SÓN APUNTS EN BRUT QUE PASSARE EN NET
+
 # Apunts
+
+
 
 Introducció 
 
