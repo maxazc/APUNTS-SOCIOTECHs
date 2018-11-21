@@ -1,3 +1,250 @@
+
+<table style="height: 397px;" width="532">
+<tbody>
+<tr>
+<td style="width: 52px;">Recerca</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">
+<p>BIG DATA</p>
+<p>datificaci&oacute;n</p>
+</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">Sensors</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">CYBORGAIA (Tetsuo)</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Econom&iacute;a</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Viol&egrave;ncia espit&egrave;mica</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">ACCELERATIONISM</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">GEOPOL&Iacute;TICA</td>
+<td style="width: 53px;">CODE</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Colonialisme digital</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">comunism</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Forensics</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">TECNOBLANDAS</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Web</td>
+<td style="width: 53px;">Stack</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Automatitzaci&oacute;, fi del treball</td>
+<td style="width: 53px;">Delegaci&oacute;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">ALGORITME</td>
+<td style="width: 53px;">Quantified self</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">TIQQUN</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Touring Completo</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Recerca</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">DAta Commons</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Emotions</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">Affordance</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Sensors</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">INTERFACE</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">Ficci&oacute;+Narratives</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 52px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+<td style="width: 53px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 #### AIXÒ SÓN APUNTS EN BRUT QUE PASSARE EN NET
 
 # Apunts
