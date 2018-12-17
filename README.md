@@ -276,9 +276,7 @@ Pensem les nostres experiències amb les dades que produïm. Quantes cançons he
 * **Descartes**- Som una unitat contraposada, primer pensament després matèria. Visió monista: tot sóm part de la mateixa cosa. (el budisme es una religió monista) La lògica amb la que s’intervé en el món, inherent en els sistemes tecnològics i cibernètics té arrel en Aristòtil i descartes, pel racionalisme.
 * **Tetsuo aka Teoria cyborgaya**: formem part d’una entitat molt més gran que nosaltres, que és Gaya travessada per un munt de cables i tal. (gaya: madre tierra) Tetsuo no només ens absorbeix sinó també ens amplia. Que els nostres sentits arribin més lluny té conseqüències en els ecosistemes, positives i negatives. 
 
-![](https://static1.squarespace.com/static/50bfffbfe4b015daadf8beab/t/5a6a4e3871c10b7369249ad1/1516916328826/tetsuo.gif?format=750w "TETSUO")
-
-![](https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/9/9b/Tetsuo_Shima_Mutated.gif/revision/latest?cb=20170519062231 "TETSUO")
+![](https://i.pinimg.com/originals/86/13/61/8613611ede1f689097690a7d71382cd5.gif "tetsuok") ![](https://camo.githubusercontent.com/9acea38a5aaaa0f62aaaed5c617277dc463e14ab/68747470733a2f2f7669676e657474652e77696b69612e6e6f636f6f6b69652e6e65742f6c6567656e64736f667468656d756c7469756e6976657273652f696d616765732f392f39622f54657473756f5f5368696d615f4d7574617465642e6769662f7265766973696f6e2f6c61746573743f63623d3230313730353139303632323331 "TETSUO")
 
 ***
 # TECNOLOGIES TOVES
