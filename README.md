@@ -348,7 +348,9 @@ Molt bla bla però despres la app del bicing és una merda
 
 #### Shoshana Zuboff, The Perils of Surveillance Capitalism
 Surveillance capitalism is a novel market form and a specific logic of capitalist accumulation that was first described in a 2014 essay by business theorist and social scientist Shoshana Zuboff. She characterized it as a "radically disembedded and extractive variant of information capitalism" based on the commodification of "reality" and its transformation into behavioral data for analysis and sales.  Surveillance capitalism is the monetization of data captured through monitoring people's movements and behaviors online and in the physical world.
+
 > Naming is power
+
 Breaks with traditional forms of capitalism in the sense that works for others but not for us. Is taking from us, this products are not design for/to us, the forms of knowledge that it creates is for the convinence of the markets, not for the population of users whose private expirience is mistaken. Is not only that we are not ocnsumers, users or product: we are the source of a raw material in a global network. Everyone is a supply channel. 
 Without 9/11 surveiling capitalis would not been succesful  ?
 
