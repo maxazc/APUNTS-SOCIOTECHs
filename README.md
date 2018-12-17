@@ -261,11 +261,9 @@ Té relació amb múltiples àmbits. En què pensem quan pensem en tecnologia? -
 # INTERFÍCIE
 Interfície: sistema que connecta dos llenguatges diferents. 
 
-`Exemple; una porta amb pom i pany amb un gest ens permet accedir a un espai. entre el que és meu i el que és de l’altre. 
-
-Exemple: la pell (i el dolor com a sensor), la classe, etc. 
-
-Flipada: La impressora 3D porta a la llum la tesi de marx: socialitzar els mitjans de producció. Impressora que s’auto-imprimeix. Empoderar la gent, fer unblackboxing (que la gent ho entengui) etc.`
+`Exemple; una porta amb pom i pany amb un gest ens permet accedir a un espai. entre el que és meu i el que és de l’altre.`
+`Exemple: la pell (i el dolor com a sensor), la classe, etc.`
+`Flipada: La impressora 3D porta a la llum la tesi de marx: socialitzar els mitjans de producció. Impressora que s’auto-imprimeix. Empoderar la gent, fer unblackboxing (que la gent ho entengui) etc.`
 
 #### Experiències
 Pensem les nostres experiències amb les dades que produïm. Quantes cançons hem escoltat, quants passos hem fet, per on hem estat, les fotografies, etc. 
