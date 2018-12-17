@@ -406,7 +406,6 @@ Unblackboxing és un procès inverso conocido como descajanegrizar consistente
 
 Kittler, inspirado por el método de trabajo del pensador francés Michel Foucault, propone hacer arqueologías de los medios y tecnologías que usamos para entender cómo operan sus estructuras de poder. La arqueología de los medios es, de esta manera, la arqueología de las máquinas que nos producen como sujetos, de los medios que nos determinan como seres humanos, de las máquinas que nos piensan y con las que pensamos.   ROWAN, Jaron (Diseño y materialismo, hacia materias salvajes)
 
-***
 #### Stack
 A comprehensive political and design theory of planetary-scale computation proposing that The Stack—an accidental megastructure—is both a technological apparatus and a model for a new geopolitical architecture.
 Bratton explores six layers of The Stack, each is mapped on its own terms and understood as a component within the larger whole built from hard and soft systems intermingling—not only computational forms but also social, human, and physical forces. 
@@ -443,7 +442,6 @@ El **coaching**, és la la disciplina psicològica aplicada a la gestió dels es
 
 Com ens apropiem de cert **discurs del patiment**? Què volem performar amb aquest patiment: com instrumentalitzem la idea del patiment per mostrar a una persona alguna cosa. Els feminismes fan servir el patiment com a tecnologia tova per mostrar ètiques i formes de pensar (en lloc d’utilitzar una idea abstracta sobre drets, igualtat, etc) Patiment i emancipació estan més o menys relacionats.  El patiment també ha servit com a justificació de la pràctica artística.
 
-***
 #### El dolor com a eina parametritzada
 En la mesura en què a traves de les XXSS i les converses pel whats es poden començar a generar perfils psicològics concrets: es poden entendre punts fluixos d’individuus i determinats col·lectius i fer servir aquests perfils per modificar el comportament d’aquesta gent a traves dels seus perfils. El **patiment com a tecnologia** tova te a veure sobre com el patiment es fa servir com a discurs legitimador en la seva lluita. Com les emocions es fan servir com una eina de disciplina social en el context del capitalisme de vigilància i el capitalisme de dades. 
 
@@ -475,12 +473,14 @@ Referents:
 ***
 # SCI-FI des d’una perspectiva social
 Aproximació a la ciència ficció des d’una perspectiva de les ciències socials. La ficció es fa servir com a eina de disciplinament del cos social. 
+
 `Exemple: A la pel·lícula The Village els fundadors del poble fan servir la ficció per controlar la gent. `
+
 El concepte de ficció tal com l’entenem ara neix amb la impremta de Guttenberg. Abans església monopolitzava la producció i difusió de coneixement legítim; després va néixer la premsa i amb ella el protocol d’informació anomenat ficció: allò que no pertany a lo real. (ABANS TOT ALLÒ ESCRIT ERA CONSIDERAT VERITAT?)
 
-- Preciado a Testoyonki diu que el cos és una ficció en la mesura que el percebem amb una sèrie de coordenades (home, bell, etc) que són constructes socials (que considerem incontestables) però que són ficcions. 
-- Marx: “ El poder mes gran que té el capitalisme es de configurar la nostra imaginació”, de fer-nos pensar que no hi ha res més enllà del capitalisme, i que el mercat és la única manera d’intercanvi neutral i justa, a diferència d’altres. 
-- Žižek: “avui en dia ens es mes fàcil imaginar la fi del mon que la fi del capitalisme”
+- **Preciado a Testoyonki** diu que el cos és una ficció en la mesura que el percebem amb una sèrie de coordenades (home, bell, etc) que són constructes socials (que considerem incontestables) però que són ficcions. 
+- **Marx**: “ El poder mes gran que té el capitalisme es de configurar la nostra imaginació”, de fer-nos pensar que no hi ha res més enllà del capitalisme, i que el mercat és la única manera d’intercanvi neutral i justa, a diferència d’altres. 
+- **Žižek**: “avui en dia ens es mes fàcil imaginar la fi del mon que la fi del capitalisme”
 El capitalisme és capaç de construir sostres imaginaris i construir el relat del món. La ficció capitalista es construeix en estats-nació. La propietat privada també és una ficció: la construcció de les ciutats, les cases (micro) etc. Com hem de viure en un context d’intercanvi mercantil, etc. 
 
 La ficció **té una sèrie de funcions**. La capacitat d’explicar histories i la capacitat de fabular han de servir per perpetuar-nos com a espècie. La història “si poses els dits a l’endoll et mors” perpetua l’existència humana. Com que sóm essers narratius i expliquem les coses a traves d’històries, sens queda més la informació.  La generació de comunitat i sentiment de pertinença també és una tecnologia tova funcional fruit d’una ficció. La ficció també consolida que emergeixin uns futurs i no uns altres.
@@ -489,7 +489,6 @@ La ficció **opera com un laboratori**: no només produir futurs apocal·líptic
 
 No pots esperar a que tothom estigui molt informat perquè la gent te feina, fills, etc. R. barthes a Mitologies (Parla de la nació francesa a traves de coses qualsevols): quins son els mites que articulen la vida social dia. a dia. Necessitem nous mites per generar nous imaginaris. Quin tipus d’institucions podrien existir en un context on la nostra manera de relacionar-nos fos radicalment diferent? Les ficcions son bones eines per pensar aquestes coses. Com **la ficció esdevé una infraestructura simbòlica que ens facilita les relacions amb nosaltres i amb el nostre entorn**. Com podem fer servir la ficció per canviar aquesta retícula; per modificar aquestes percepcions i fer el món més desitjable, més pensable. 
 
-***
 #### Altres conceptes, poders i agències performatives de la ficció. 
 Objectes diegètics ens permeten apropar els futurs potencials al avui. Els fan servir les startups i tal. Fan servir la ficció com una eina per dir-nos als usuaris i inversors que aquest futur és un futur desitjable. Fake it until you make it - genera la ficció fins que ho venguis.
 
