@@ -252,7 +252,9 @@ Com la tecnologia ens relaciona com a societat, com ens relacionem amb la tecnol
 ***
 # TECNOLOGIA
 Eines externes al nostre cos que fem servir per intervenir en el nostre entorn. Son fabricades, artil·lugis. Tenen una finalitat pràctica: actuar sobre les coses i els éssers humans. Són producte de la intel·ligència però no són entitats merament mentals.
+
 La tecnologia no és una entitat aïllada. Una tecnologia ha de ser considerada dins una xarxa de relacions sistèmiques, que tenen components tecnològics i extra-tecnològics.  Una tecnologia no es un objecte en si: és una matriu, un assemblatge de poders i relacions de poder.
+
 Té relació amb múltiples àmbits. En què pensem quan pensem en tecnologia? - Hi ha molt més que l’objecte tecnològic: és tot un ecosistema. Coneixements tecnològics, ethos tecnològics, activitats tecnològiques, objectes tecnològics… El sistema tecnològic (residus, múltiples agents, etc) // components culturals que ens demostren com nosaltres (societat occidental) entenem la tecnologia. Sovint enginyers, dissenyadors i desenvolupadors de tecnologia desconeixen el context i la complexitat de relacions que implica la feina que fan, ni la diversitat de conseqüències que pot tenir. 
 
 ***
@@ -270,11 +272,11 @@ Spinoza - Som una mica de tot, dins i fora, racional
 Descartes- Som una unitat contraposada, primer pensament després matèria. Visió monista: tot sóm part de la mateixa cosa. (el budisme es una religió monista) La lògica amb la que s’intervé en el món, inherent en els sistemes tecnològics i cibernètics té arrel en Aristòtil i descartes, pel racionalisme.
 Tetsuo aka Teoria cyborgaya: formem part d’una entitat molt més gran que nosaltres, que és Gaya travessada per un munt de cables i tal. (gaya: madre tierra) Tetsuo no només ens absorbeix sinó també ens amplia. Que els nostres sentits arribin més lluny té conseqüències en els ecosistemes, positives i negatives. 
 
+![](https://static1.squarespace.com/static/50bfffbfe4b015daadf8beab/t/5a6a4e3871c10b7369249ad1/1516916328826/tetsuo.gif?format=750w "TETSUO")
 
-https://static1.squarespace.com/static/50bfffbfe4b015daadf8beab/t/5a6a4e3871c10b7369249ad1/1516916328826/tetsuo.gif?format=750w
+![](https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/9/9b/Tetsuo_Shima_Mutated.gif/revision/latest?cb=20170519062231 "TETSUO")
 
 
-https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/9/9b/Tetsuo_Shima_Mutated.gif/revision/latest?cb=20170519062231
 
 ***
 # TECNOLOGIES TOVES
@@ -376,11 +378,10 @@ Plataforma: lloc de trobada orientat a uns objectius i interessos concrets. El c
 6. Cal obrir el camí cap a la presència.
 7. “cuando tienes que preocuparte por tu supervivencia, dejas de imprimir cosas en 3D más bien rápidamente. Es entonces cuando encuentras un plan diferente”.
 
-
+***
 # INFRAESTRUCTURA
 Infraestructura: sistemes que fan possible la vida tal i com la coneixem que passen desapercebuts. Clavagueram, electricitat, trens, satèl·lits de GPS, lleis que regulen les finances, les càmeres de vigilància, etc. 
 
-***
 #### Blackboxing
 Si ve podem definir com Blackboxing el camino mediante el cual el trabajo científico o técnico se vuelve invisible a causa de su propio éxito. Cuando una máquina funciona eficientemente o un hecho está establecido con firmeza, uno sólo necesita concentrarse en los beneficios que genere y no es su complejidad interior. Así, paradójicamente, sucede que la ciencia y la tecnología cuanto más éxito obtienen más opacas se vuelven.1
 
